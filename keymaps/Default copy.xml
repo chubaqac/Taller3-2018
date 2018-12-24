@@ -2,7 +2,8 @@
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
-  <action id="CollapseRegion">
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="CommentByLineComment">
